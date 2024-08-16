@@ -1,2 +1,2 @@
-#Harry Potter Fan Quiz Website
+#HarryPotterFanQuizWebsite
 This is a Harry Potter Fan Quiz Website.
